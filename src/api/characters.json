@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "image": "https://www.evilresource.com/images/entities/full/re2/leon-s-kennedy.png"
+    },
+    {
+        "id": 1,
+        "image": "https://www.evilresource.com/images/entities/full/re2/claire-redfield.png"
+    },
+    {
+        "id": 2,
+        "image": "https://www.evilresource.com/images/entities/full/re2/ada-wong.png"
+    },
+    {
+        "id": 3,
+        "image": "https://www.evilresource.com/images/entities/full/re2/sherry-birkin.png"
+    },
+    {
+        "id": 4,
+        "image": "https://www.evilresource.com/images/entities/full/re2/robert-kendo.png"
+    },
+    {
+        "id": 5,
+        "image": "https://www.evilresource.com/images/entities/full/re2/marvin-branagh.png"
+    },
+    {
+        "id": 6,
+        "image": "https://www.evilresource.com/images/entities/full/re2/ben-bertolucci.png"
+    },
+    {
+        "id": 7,
+        "image": "https://www.evilresource.com/images/entities/full/re2/brian-irons.png"
+    },
+    {
+        "id": 8,
+        "image": "https://www.evilresource.com/images/entities/full/re2/annette-birkin.png"
+    },
+    {
+        "id": 9,
+        "image": "https://www.evilresource.com/images/entities/full/re2/william-birkin.png"
+    },
+    {
+        "id": 10,
+        "image": "https://www.evilresource.com/images/entities/full/re2/hunk.png"
+    },
+    {
+        "id": 11,
+        "image" : "https://vignette.wikia.nocookie.net/residentevil/images/5/5d/Tofu.jpg/revision/latest?cb=20090218231103"
+    }
+]

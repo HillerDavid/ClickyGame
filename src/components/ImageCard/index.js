@@ -1,7 +1,14 @@
 import React from 'react'
+import './style.css'
 
-class ImageCard extends React.Component {
+const ImageCard = props => (
 
-}
+        <div className="img-container" key={props.id} onClick={() => props.handleClick(props.id)}>
+            <img alt='' className="img-thumbnail" src={props.image} />
+        </div>
+
+)
+
+
 
 export default ImageCard

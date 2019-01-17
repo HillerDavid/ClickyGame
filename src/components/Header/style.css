@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Typewriter';
+    src: url('../../fonts/1942.ttf') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('../../fonts/1942.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+nav {
+    background: #020106;
+    font-family: 'Typewriter', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navbar-header {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar-brand {
+    float: none;
+    color: #750705 !important;
+    font-size: 4rem;
+}

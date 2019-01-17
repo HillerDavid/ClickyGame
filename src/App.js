@@ -1,13 +1,18 @@
 import React from 'react'
-import Title from './components/Title'
-import ImageCard from './components/ImageCard'
+import Header from './components/Header'
+import GameArea from './components/GameArea'
 
-class App extends React.Component {
-    render() {
-        return (
-            <div>Test</div>
-        )
-    }
+const App = () => {
+
+
+    return (
+        <div className='app-container' >
+            <Header />
+            <GameArea />
+        </div>
+
+    )
+
 }
 
 export default App
